@@ -1,5 +1,4 @@
 import java.util.HashMap;
-
 class IsomorphicStrings {
 
     public static void printString(boolean result){
